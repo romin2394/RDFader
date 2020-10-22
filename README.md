@@ -1,6 +1,6 @@
 # RDFader
 ## Example
-![alt text](https://github.com/romin2394/RDFader/blob/master/RDFader/snap.png)
+![alt text](https://github.com/romin2394/RDFader/blob/main/RDFader/snap.png)
 
 #### Manually
 1. Download and drop ```RDFader.swift and RDFaderLayerRenderer.swift``` in your project.  
